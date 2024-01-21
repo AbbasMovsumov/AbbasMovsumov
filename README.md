@@ -19,18 +19,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF8C0FFF&lines=I'm+Abbas+MOVSUMOV%7C;+Software+Automation+Engineer%7C;I'm+sharing+my+projects+in+here%7C;I+usually+using+Java+for+projects%7C)
 
 
-<h3 align="center">A passionate STED Full-Stack Automation Engineer from France 🇫🇷</h3>
+<h2 align="center"> A passionate STED Full-Stack Automation Engineer from France 🇫🇷</h2>
 
-<br/>
 
-<div align="center">
+
  
-🔭 I’m currently working on **Security testing,WebServices Testing using SoapUI tool etc.**
- 
-🌱 I’m currently learning **Frameworks,Python scripting,Cypress,API,ETL testing,Joins etc.**
+ ✅ I have been dealing with IT and Software Automation Engineer for more than a few years and I am always learning and improving myself!
 
-💬 Ask me about **Mobile Apps Testing,Selenium Automation Testing etc.... or anything .**
- </div>
+✅My goals are to help people achieve their dreams and to make quality websites and software that people find useful. 
+ 
+
+
 
 <div align="center"> 
   <a href="https://discord.gg/mowsumow" target="blank">
@@ -43,22 +42,32 @@
   </a>
 </div>
 
+</b>
+</a> 
 
 
-<a>
- <h2 align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages-Frameworks-Tools<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
- </a>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b><b> Languages-Frameworks-Tools</b> </b>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+</h2> </a>
+
+ 
+ </p>
+
 
   
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cypress,oracle,postgresql,html,linux,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,jenkins,django,,selenium,illustrator,photoshop" /><br>
-</div>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br/>
-gunum
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cypress,oracle,html,css,vscode,github,git,postgresql,linux,r" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,jenkins,django,selenium,illustrator,photoshop" /><br>
+</div>
+ <!--<img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,jenkins,django,,selenium,illustrator,photoshop,lambda-->
+ 
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 
 
 <div align="center">
