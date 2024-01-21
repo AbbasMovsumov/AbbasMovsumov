@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbbasMovsumov.AbbasMovsumov" />
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
- <!--- <img src="https://komarev.com/ghpvc/?username=ArslannYusuf&&style=plastics&&color=red" align="right"/> </p> --> 
+<p align="center">
+ <img src="https://i.imgur.com/A6bWGFl.gif"/>
+ <!--- <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p> --> 
 <br>
 <!--
   <h2 align="center"> 
@@ -14,6 +15,7 @@
 <!--### </path></svg></a> About Me ✅ </h2> -->
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+page%7C;+It's+good+to+see+you) -->
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF8C0FFF&lines=I'm+Abbas+MOVSUMOV%7C;+Software+Automation+Engineer%7C;I'm+sharing+my+projects+in+here%7C;I+usually+using+Java+for+projects%7C)
 
 
@@ -22,48 +24,42 @@
 <br/>
 
 <div align="center">
-
-
+ 
 🔭 I’m currently working on **Security testing,WebServices Testing using SoapUI tool etc.**
  
 🌱 I’m currently learning **Frameworks,Python scripting,Cypress,API,ETL testing,Joins etc.**
 
-💬 Ask me about **Mobile Apps Testing,Selenium Automation Testing etc.... or anything [here](https://github.com/AbbasMovsumov/AbbasMovsumov/issues)**
-
+💬 Ask me about **Mobile Apps Testing,Selenium Automation Testing etc.... or anything .**
  </div>
- 
-<div align="center"> 
 
-  <a href="mailto:a.movsumov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
-  </a>
+<div align="center"> 
   <a href="https://discord.gg/mowsumow" target="blank">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=violet" target="_blank" />
   </a>
   <a href="https://linkedin.com/in/abbas-movsumov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="mailto:a.movsumov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-  <a href="https://AbbasMovsumov.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-  
 </div>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
+<a>
+ <h2 align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages-Frameworks-Tools<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+ </a>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+  
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cypress,oracle,postgresql,html,linux,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,jenkins,django,,selenium,illustrator,photoshop,lambda" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,jenkins,django,,selenium,illustrator,photoshop" /><br>
 </div>
-
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br/>
-<hr/>
+gunum
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -75,7 +71,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b></h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-AbbasMovsumov.vercel.app/?user=AbbasMovsumov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
