@@ -1,31 +1,44 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbbasMovsumov.AbbasMovsumov" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abbas+Movsumov!;+Bonjour!+👋;+Je+suis+Abbas+Movsumov!" />
-</h1>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+ <!--- <img src="https://komarev.com/ghpvc/?username=ArslannYusuf&&style=plastics&&color=red" align="right"/> </p> --> 
+<br>
+<!--
+  <h2 align="center"> 
+</h2> --> 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/> 
+    
+<h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="18" height="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
+    
+<!--### </path></svg></a> About Me ✅ </h2> -->
+<!-- %7C -> alttaki yaziya | eklememize yariyor -->
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+page%7C;+It's+good+to+see+you) -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF8C0FFF&lines=I'm+Abbas+MOVSUMOV%7C;+Software+Automation+Engineer%7C;I'm+sharing+my+projects+in+here%7C;I+usually+using+Java+for+projects%7C)
+
 
 <h3 align="center">A passionate STED Full-Stack Automation Engineer from France 🇫🇷</h3>
 
 <br/>
 
 <div align="center">
+
+
+🔭 I’m currently working on **Security testing,WebServices Testing using SoapUI tool etc.**
  
- 🔭 I’m currently working on **Security testing,WebServices Testing using SoapUI tool etc.**
- 
- 🌱 I’m currently learning **Frameworks,Python scripting,Cypress,API,ETL testing,Joins etc.**
+🌱 I’m currently learning **Frameworks,Python scripting,Cypress,API,ETL testing,Joins etc.**
 
 💬 Ask me about **Mobile Apps Testing,Selenium Automation Testing etc.... or anything [here](https://github.com/AbbasMovsumov/AbbasMovsumov/issues)**
-
 
  </div>
  
 <div align="center"> 
 
   <a href="mailto:a.movsumov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
   <a href="https://discord.gg/mowsumow" target="blank">
-    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=violet" />
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=violet" target="_blank" />
   </a>
   <a href="https://linkedin.com/in/abbas-movsumov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -33,7 +46,12 @@
   <a href="https://AbbasMovsumov.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  
 </div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 
  <hr/>
  
