@@ -1,5 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbbasMovsumov.AbbasMovsumov" />
 
+
+
+<!-- profile view count. replace username with yours-->
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&label=Profile%20views&color=0e75b6&style=flat" alt="AbbasMovsumov" /> 
+</p>
+
+<!-- trophies. replace username with yours-->
+<p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=AbbasMovsumov" alt="AbbasMovsumov" />
+	</a> 
+</p>
+
+
+
 <p align="center">
  <img src="https://i.imgur.com/A6bWGFl.gif"/>
  <!--- <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p> --> 
@@ -66,16 +82,17 @@
     <img src="https://skillicons.dev/icons?i=java,python,javascript,jenkins,django,,selenium,illustrator,photoshop,lambda-->
  
 <br/>
+
+
+
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbbasMovsumov/AbbasMovsumov/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
@@ -83,29 +100,16 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b></h2>
 <br>
 
-
-<!--
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-AbbasMovsumov.vercel.app/?user=AbbasMovsumov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-AbbasMovsumov.vercel.app/api?username=AbbasMovsumov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-AbbasMovsumov.vercel.app/api/top-langs/?username=AbbasMovsumov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>-->
-
-
-
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbbasMovsumov&theme=dark&background=000000)](https://git.io/streak-stats) 
-
-
-<!--
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AbbasMovsumov&theme=dark&background=000000"/>
+<!--  github stats  -->
+<p>&nbsp;
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbbasMovsumov&show_icons=true&locale=en" alt="AbbasMovsumov" />
 </p>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArslannYusuf&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- streak stats  -->
+<p>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasMovsumov&" alt="AbbasMovsumov" />
+</p>
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -140,19 +144,7 @@ jobs:
    ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)   -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>  -->
  
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AbbasMovsumov)
-
-
-
-
-<br/><br/>
+<!--[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AbbasMovsumov)-->
 
 <hr/>
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/abbasmovsumov' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
