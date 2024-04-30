@@ -1,25 +1,26 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbbasMovsumov.AbbasMovsumov" />
-
-
-
+<p align="center">
+ <img src="https://i.imgur.com/A6bWGFl.gif"/>
+ <!--- <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p> --> 
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbbasMovsumov&theme=gruvbox&row=1&no-frame=true" alt="AbbasMovsumov" /></a> </p>
+<!--Ag rengte oldugu ucun bir muddet qarasini istifade etmeli-->
+<!--
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&label=Profile%20views&color=0e75b6&style=flat" alt="AbbasMovsumov" /> 
 </p>
 
-<!-- trophies. replace username with yours-->
+<!-- trophies. replace username with yours
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=AbbasMovsumov" alt="AbbasMovsumov" />
 	</a> 
 </p>
+-->
 
 
 
-<p align="center">
- <img src="https://i.imgur.com/A6bWGFl.gif"/>
- <!--- <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p> --> 
-<br>
 <!--
   <h2 align="center"> 
 </h2> --> 
