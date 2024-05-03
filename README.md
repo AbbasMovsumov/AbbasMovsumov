@@ -1,10 +1,13 @@
+ <!-- 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbbasMovsumov.AbbasMovsumov" />
 <p align="center">
- <img src="https://i.imgur.com/A6bWGFl.gif"/>
- <!--- <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p> --> 
+ <img src="https://i.imgur.com/A6bWGFl.gif"/>--><!-- Neon isiglarinan Github yazilib-->
+
+ 
+ <!--- <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p>  
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbbasMovsumov&theme=gruvbox&row=1&no-frame=true" alt="AbbasMovsumov" /></a> </p>
-<!--Ag rengte oldugu ucun bir muddet qarasini istifade etmeli-->
+<!--Ag rengte oldugu ucun bir muddet qarasini istifade etmeli--><!---Kupalar boz rengde-->
 <!--
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
@@ -41,9 +44,9 @@
 
 
  
- ✅ I have been dealing with IT and Software Automation Engineer for more than a few years and I am always learning and improving myself!
+  I have been dealing with IT and Software Automation Engineer for more than a few years and I am always learning and improving myself!
 
-✅My goals are to help people achieve their dreams and to make quality websites and software that people find useful. 
+  My goals are to help people achieve their dreams and to make quality websites and software that people find useful. 
  
 
 
@@ -95,10 +98,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-  ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)   -->
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>  -->
+<!--  ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)   -->    <!-- GIF COVID -->
+
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>  -->  <!-- NEON isig -->
  
-<!--[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AbbasMovsumov)
+<!--[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AbbasMovsumov)--><!--GitHub Iconu-->
 
 
 </div>
