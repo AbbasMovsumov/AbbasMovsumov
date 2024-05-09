@@ -4,10 +4,10 @@
  <img src="https://i.imgur.com/A6bWGFl.gif"/>--><!-- Neon isiglarinan Github yazilib-->
 
  
- <!--- <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p>  
+  <img src="https://komarev.com/ghpvc/?username=AbbasMovsumov&&style=plastics&&color=red" align="right"/> </p>  
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbbasMovsumov&theme=gruvbox&row=1&no-frame=true" alt="AbbasMovsumov" /></a> </p>
-<!--Ag rengte oldugu ucun bir muddet qarasini istifade etmeli--><!---Kupalar boz rengde-->
+<!--Ag rengte oldugu ucun bir muddet qarasini istifade etmeli    <!---Kupalar boz rengde-->
 <!--
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
