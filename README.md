@@ -118,9 +118,11 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbbasMovsumov&show_icons=true&locale=en" alt="AbbasMovsumov" />
 </p>
 
-<!-- black streak stats  -->
+<!--white streak stats  -->
+	
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasMovsumov&" alt="AbbasMovsumov" />
 <p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbbasMovsumov&theme=dark&background=000000)](https://git.io/streak-stats) 
+
 </p><!--white streak stats  -->
 <!--	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasMovsumov&" alt="AbbasMovsumov" />-->
 
@@ -128,7 +130,7 @@
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbbasMovsumov&theme=dark&background=000000)](https://git.io/streak-stats) 
+
 
 
 <!-- 
